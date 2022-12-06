@@ -113,4 +113,4 @@ Result: 👍
 
 Notes: I had to move `size(500, 500);` into the `setup()` function.
 
-<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/pyschedelic_pattern01.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/pyschedelic_pattern03.png?raw=true" width="33%"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern01.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern03.png?raw=true" width="33%"/>
