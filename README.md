@@ -1,8 +1,8 @@
 # ChatGPT Generated Programs
 
-> Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom
+### Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom
 
-pyschedelic_fractal.pde
+File: pyschedelic_fractal.pde
 
 [Video](https://v.usetapes.com/tN8SdeBlYD)
 
@@ -14,11 +14,11 @@ Result: 👍
 
 Notes: I had to move `size(500, 500);` into the `setup()` function.
 
-<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal01.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal02.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal03.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal04.png?raw=true" width="25%"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal02.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal03.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal04.png?raw=true" width="33%"/>
 
 > write python code for blackjack game
 
-blackjack.py 
+File: blackjack.py 
 
 Result: 👍
 
@@ -60,7 +60,7 @@ Your hand:
 You win!
 ```
 
-blackjack2.py 
+File: blackjack2.py 
 
 Result: 👍
 
