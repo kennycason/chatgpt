@@ -35,9 +35,9 @@ Worked after minor edits and asking ChatGPT to write specific functions separate
 This surprisingly worked quite well, and I only needed reference ChatGPT in order to write this program. 
 Additionally, this is my first project to use Processing.
 
-<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life_running.png?raw=true" width="60%"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life_running.png?raw=true" />
 
-<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life01.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life02.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life03.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life04.png?raw=true" width="25%"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life01.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life02.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life03.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life04.png?raw=true" width="50%"/>
 
 
 ### 4. Write python code for blackjack game
