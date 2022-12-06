@@ -1,6 +1,6 @@
 # ChatGPT Generated Programs
 
-### Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom
+### 1. Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom
 
 File: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt_code/blob/main/psychedelic_fractal.pde)
 
@@ -17,8 +17,18 @@ Notes: I had to move `size(500, 500);` into the `setup()` function.
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal02.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal03.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal04.png?raw=true" width="33%"/>
 
 
+### 2. Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward
 
-### Write python code for blackjack game
+File: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt_code/blob/main/dc_motor_with_l298n.py)
+
+Result: 👍
+
+Notes: I was quite surprised as to the breadth of ChatGPT with this one. 
+It was able to generate a working Python code to control two DC motors via the L298N Motor Driver Controller with reverse and forward.
+The generated code had a minor bug that prevented reverse from working, otherwise it worked out-of-the-box. 
+I tested it on a robotic tank I have been working on.
+
+### 3. Write python code for blackjack game
 
 File: [blackjack.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack.py)
 
@@ -81,31 +91,7 @@ Dealer's hand:
 You Lose!
 ```
 
-```shell
-Your hand:
-3 of Hearts
-4 of Hearts
-Dealer's hand:
-10 of Clubs
-Your hand:
-3 of Hearts
-4 of Hearts
-2 of Diamonds
-Your hand:
-3 of Hearts
-4 of Hearts
-2 of Diamonds
-3 of Diamonds
-Your hand:
-3 of Hearts
-4 of Hearts
-2 of Diamonds
-3 of Diamonds
-9 of Hearts
-You win!
-```
-
-### Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern
+### 4. Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern
 
 File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
 
