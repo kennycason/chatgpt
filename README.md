@@ -57,8 +57,11 @@ Output:
 ```
 
 
+### 5. "Write python code to read camera data via picamera2 and detect faces with opencv."
 
-### 5. "Write python code for blackjack game"
+File: [opencv_face_detection.py](https://github.com/kennycason/chatgpt_code/blob/main/opencv_face_detection.py)
+
+### 6. "Write python code for blackjack game"
 
 File: [blackjack.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack.py)
 
@@ -119,7 +122,7 @@ You Lose!
 
 
 
-### 6. "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
+### 7. "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
 
 File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
 
