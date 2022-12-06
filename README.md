@@ -104,3 +104,13 @@ Your hand:
 9 of Hearts
 You win!
 ```
+
+### Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern
+
+File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
+
+Result: 👍
+
+Notes: I had to move `size(500, 500);` into the `setup()` function.
+
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/pyschedelic_pattern01.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/pyschedelic_pattern03.png?raw=true" width="33%"/>
