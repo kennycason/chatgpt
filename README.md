@@ -40,7 +40,25 @@ Additionally, this is my first project to use Processing.
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life01.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life02.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life03.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life04.png?raw=true" width="50%"/>
 
 
-### 4. Write python code for blackjack game
+
+### 4. write a simple neural network in python and then remove code comments
+
+File: [neural_network.py](https://github.com/kennycason/chatgpt_code/blob/main/neural_network.py)
+
+Code worked as-is. 
+
+Target Vector: `[0, 1, 1, 0]`
+Output:
+```bash
+[[0.03896381]
+ [0.95923365]
+ [0.96770453]
+ [0.04000064]]
+```
+
+
+
+### 5. Write python code for blackjack game
 
 File: [blackjack.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack.py)
 
@@ -101,7 +119,7 @@ You Lose!
 
 
 
-### 5. Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern
+### 6. Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern
 
 File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
 
