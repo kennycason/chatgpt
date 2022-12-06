@@ -2,7 +2,7 @@
 
 ### Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom
 
-File: pyschedelic_fractal.pde
+File: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt_code/blob/main/psychedelic_fractal.pde)
 
 [Video](https://v.usetapes.com/tN8SdeBlYD)
 
@@ -16,9 +16,11 @@ Notes: I had to move `size(500, 500);` into the `setup()` function.
 
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal02.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal03.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal04.png?raw=true" width="33%"/>
 
-> write python code for blackjack game
 
-File: blackjack.py 
+
+### Write python code for blackjack game
+
+File: [blackjack.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack.py)
 
 Result: 👍
 
@@ -60,7 +62,7 @@ Your hand:
 You win!
 ```
 
-File: blackjack2.py 
+File: [blackjack2.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack2.py)
 
 Result: 👍
 
