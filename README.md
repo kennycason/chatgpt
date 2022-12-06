@@ -14,9 +14,7 @@ Result: 👍
 
 Notes: I had to move `size(500, 500);` into the `setup()` function.
 
-<img src="output/pyschedelic_fractal01.png?raw=true" width="250px"/>
-<img src="output/pyschedelic_fractal02.png?raw=true" width="250px"/>
-<img src="output/pyschedelic_fractal03.png?raw=true" width="250px"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal01.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal02.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal03.png?raw=true" width="25%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_fractal04.png?raw=true" width="25%"/>
 
 > write python code for blackjack game
 
