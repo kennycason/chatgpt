@@ -149,7 +149,7 @@ I was still impressed that I was able to get nearly working `PyGame` starter pro
 
 Source: [bomberman.py](https://github.com/kennycason/chatgpt_code/blob/main/bomberman.py)
 
-<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/bomberman_pygame.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern03.png?raw=true" width="33%"/>
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/bomberman_pygame.png?raw=true" width="50%"/>
 
 
 
