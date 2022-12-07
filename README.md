@@ -133,11 +133,24 @@ You Lose!
 ```
 
 
+
 ### Input: "Using the Python programming language write code to generate pokemon like techno music"
 
 While not particularly Pokémon like, I was surprised this program worked. I only needed to download a few WAV files.
 
 Source: [pokemon_like_techno.py](https://github.com/kennycason/chatgpt_code/blob/main/pokemon_like_techno.py)
+
+
+
+### Input: "Using the python programming language and pygame library and only geometry shapes, write a simple bomberman game**"
+
+The generated code had a couple issues such as `bomberman_x` and `bomberman_y` being undefined, and the player + background colors were the same.
+I was still impressed that I was able to get nearly working `PyGame` starter program with working Joystick controls. 
+
+Source: [bomberman.py](https://github.com/kennycason/chatgpt_code/blob/main/bomberman.py)
+
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/bomberman_pygame.png?raw=true" width="50%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern03.png?raw=true" width="33%"/>
+
 
 
 ### Input: "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
