@@ -1,6 +1,6 @@
 # ChatGPT Generated Programs
 
-### 1. "Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom"
+### Input: "Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom"
 
 File: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt_code/blob/main/psychedelic_fractal.pde)
 
@@ -16,7 +16,7 @@ Worked after moving `size(500, 500);` into the `setup()` function.
 
 
 
-### 2. "Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward"
+### Input: "Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward"
 
 File: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt_code/blob/main/dc_motor_with_l298n.py)
 
@@ -27,13 +27,13 @@ I tested it on a robotic tank I have been working on.
 
 
 
-### 3. "Using the programming language PROCESSING (java mode), write john conway's game of life and then simplify the code and remove code comments"
+### Input: "Using the programming language PROCESSING (java mode), write john conway's game of life and then simplify the code and remove code comments"
 
 [Video](https://v.usetapes.com/h4XFbxRH9F)
 
 Worked after minor edits and asking ChatGPT to write specific functions separately due to the length of the program. 
 This surprisingly worked quite well, and I only needed reference ChatGPT in order to write this program. 
-Additionally, this is my first project to use Processing.
+Additionally, this is my first project to use Processing. (I have since learned you can just tell ChatGPT to "Continue on".)
 
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/game_of_life_running.png?raw=true" />
 
@@ -41,7 +41,7 @@ Additionally, this is my first project to use Processing.
 
 
 
-### 4. "Write a simple neural network in python and then remove code comments"
+### Input: "Write a simple neural network in python and then remove code comments"
 
 File: [neural_network.py](https://github.com/kennycason/chatgpt_code/blob/main/neural_network.py)
 
@@ -57,11 +57,22 @@ Output:
 ```
 
 
-### 5. "Write python code to read camera data via picamera2 and detect faces with opencv."
+
+### Input: "Using the python programming language that please write a program for visually pleasing infinite psychedelic pattern."
+
+I was indeed pleased with the result!
+
+[Video](https://v.usetapes.com/lhoOLUoir8)
+
+<img src="https://github.com/kennycason/chatgpt_code/blob/main/output/visually_pleasing_infinite_pyschedelic_pattern.png?raw=true" />
+
+
+
+### Input:  "Write python code to read camera data via picamera2 and detect faces with opencv."
 
 File: [opencv_face_detection.py](https://github.com/kennycason/chatgpt_code/blob/main/opencv_face_detection.py)
 
-### 6. "Write python code for blackjack game"
+### Input: "Write python code for blackjack game"
 
 File: [blackjack.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack.py)
 
@@ -122,7 +133,7 @@ You Lose!
 
 
 
-### 7. "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
+### Input: "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
 
 File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
 
