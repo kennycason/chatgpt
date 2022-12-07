@@ -2,7 +2,7 @@
 
 ### Input: "Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom"
 
-File: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt_code/blob/main/psychedelic_fractal.pde)
+Source: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt_code/blob/main/psychedelic_fractal.pde)
 
 [Video](https://v.usetapes.com/tN8SdeBlYD)
 
@@ -18,7 +18,7 @@ Worked after moving `size(500, 500);` into the `setup()` function.
 
 ### Input: "Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward"
 
-File: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt_code/blob/main/dc_motor_with_l298n.py)
+Source: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt_code/blob/main/dc_motor_with_l298n.py)
 
 I was quite surprised as to the breadth of ChatGPT with this one. 
 It was able to generate a working Python code to control two DC motors via the L298N Motor Driver Controller with reverse and forward.
@@ -43,7 +43,7 @@ Additionally, this is my first project to use Processing. (I have since learned 
 
 ### Input: "Write a simple neural network in python and then remove code comments"
 
-File: [neural_network.py](https://github.com/kennycason/chatgpt_code/blob/main/neural_network.py)
+Source: [neural_network.py](https://github.com/kennycason/chatgpt_code/blob/main/neural_network.py)
 
 Code worked as-is. 
 
@@ -62,15 +62,16 @@ Output:
 
 I was indeed pleased with the result!
 
+Source: [visually_pleasing_infinite_pattern.py](https://github.com/kennycason/chatgpt_code/blob/main/visually_pleasing_infinite_pattern.py)
+
 [Video](https://v.usetapes.com/lhoOLUoir8)
 
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/visually_pleasing_infinite_pyschedelic_pattern.png?raw=true" />
 
 
-
 ### Input:  "Write python code to read camera data via picamera2 and detect faces with opencv."
 
-File: [opencv_face_detection.py](https://github.com/kennycason/chatgpt_code/blob/main/opencv_face_detection.py)
+Source: [opencv_face_detection.py](https://github.com/kennycason/chatgpt_code/blob/main/opencv_face_detection.py)
 
 ### Input: "Write python code for blackjack game"
 
@@ -114,7 +115,7 @@ Your hand:
 You win!
 ```
 
-File: [blackjack2.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack2.py)
+Source: [blackjack2.py](https://github.com/kennycason/chatgpt_code/blob/main/blackjack2.py)
 
 Worked as-is
 
@@ -132,10 +133,16 @@ You Lose!
 ```
 
 
+### Input: "Using the Python programming language write code to generate pokemon like techno music"
+
+While not particularly Pokémon like, I was surprised this program worked. I only needed to download a few WAV files.
+
+Source: [pokemon_like_techno.py](https://github.com/kennycason/chatgpt_code/blob/main/pokemon_like_techno.py)
+
 
 ### Input: "Using the programming language PROCESSING (java mode), write a program to draw a psychedelic pattern"
 
-File: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
+Source: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blob/main/pyschedelic_pattern.pde)
 
 Worked after minor editing.
 
