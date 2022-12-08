@@ -1,0 +1,28 @@
+Input: Teach me some interesting Chinese language for talking about circuits and electronics, I know 汉字
+
+Here are some basic Chinese words and phrases related to circuits and electronics that you may find useful:
+
+电路 - diànlù - circuit
+电子 - diànzǐ - electronics
+电流 - diànliú - current
+电压 - diànyā - voltage
+导体 - dǎotǐ - conductor
+绝缘体 - juéyuántǐ - insulator
+电容器 - diànróngqì - capacitor
+电阻器 - diànzǔqì - resistor
+半导体 - bàndǎotǐ - semiconductor
+晶体管 - jīngtǐguǎn - transistor
+
+For example, you could say:
+
+这个电路有一个大的电容器和几个电阻器。
+- Zhège diànlù yǒu yīgè dà de diànróngqì hé jǐge diànzǔqì.
+- This circuit has a large capacitor and several resistors.
+
+这种半导体材料用于制造高性能的晶体管。
+- Zhè zhǒng bàndǎotǐ cáiliào yòngyú zhìzào gāoxìngnéng de jīngtǐguǎn.
+- This semiconductor material is used to make high-performance transistors.
+
+希望这些词汇对你有帮助！
+- Xīwàng zhèxiē cíhuì duì nǐ yǒu bāngzhù!
+- I hope these words are helpful for you!
