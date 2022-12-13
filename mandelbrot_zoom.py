@@ -1,3 +1,8 @@
+# Using python programming language write a mandelbrot zoom program in pygame
+# I added code to only re-render the mandelbrot zoom or view settings have updated.
+# brew install ImageMagick
+# convert -delay 20 -loop 0 -duplicate 1,-2-1  mandelbrot1_*.png mandelbrot_zoom1.gif
+
 import pygame
 from pygame.locals import *
 from time import sleep
