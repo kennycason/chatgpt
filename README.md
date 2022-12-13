@@ -160,3 +160,11 @@ Source: [pyschedelic_pattern.pde](https://github.com/kennycason/chatgpt_code/blo
 Worked after minor editing.
 
 <img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern01.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt_code/blob/main/output/psychedelic_pattern03.png?raw=true" width="33%"/>
+
+
+### Short Stories
+
+[Hell](https://github.com/kennycason/chatgpt_code/blob/main/short_story_hell.txt) - "Write short story about reality hell and god that will give me an existential crisis"
+
+[Transcension](https://github.com/kennycason/chatgpt_code/blob/main/short_story_transcension.txt) - "Write a short story about transcension and the full realization of absolute infinity"
+
