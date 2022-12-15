@@ -1,31 +1,5 @@
 # ChatGPT Generated Programs
 
-### 🤖️ Input: "Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom"
-
-Source: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt/blob/main/psychedelic_fractal.pde)
-
-[Video](https://v.usetapes.com/tN8SdeBlYD)
-
-Output: 
-> Here is a simple implementation of a psychedelic fractal zoom in the programming language Processing:
-> This code generates a psychedelic fractal zoom by drawing a series of lines with random colors at each iteration. The zoom level is gradually increased over time, resulting in a constantly changing and mesmerizing visual effect.
-
-Worked after moving `size(500, 500);` into the `setup()` function.
-
-<img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal02.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal03.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal04.png?raw=true" width="33%"/>
-
-
-
-### 🤖️ Input: "Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward"
-
-Source: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt/blob/main/dc_motor_with_l298n.py)
-
-I was quite surprised as to the breadth of ChatGPT with this one. 
-It was able to generate a working Python code to control two DC motors via the L298N Motor Driver Controller with reverse and forward.
-The generated code had a minor bug that prevented reverse from working, otherwise it worked out-of-the-box. 
-I tested it on a robotic tank I have been working on.
-
-
 
 ### 🤖️ Input: "Using the programming language PROCESSING (java mode), write john conway's game of life and then simplify the code and remove code comments"
 
@@ -51,6 +25,33 @@ Source: [mandelbrot_zoom.py](https://github.com/kennycason/chatgpt/blob/main/man
 I was again happily surprised that the code both compiled and ran. The only issue I encountered was that the Mandelbrot Zoom was being re-rendered every game loop instead of only when there were changes to its zoom & position. This was an easy update, and below are some example GIFs that I compiled from some output screenshots. I'm pretty confident that I could have just asked ChatGPT to make such improvements, and even handle the image output, but I was hitting rate-limit issues with the API.
 
 <img src="https://github.com/kennycason/chatgpt/blob/main/output/mandelbrot_zoom1.gif?raw=true" width="33%" /><img src="https://github.com/kennycason/chatgpt/blob/main/output/mandelbrot_zoom2.gif?raw=true" width="33%" /><img src="https://github.com/kennycason/chatgpt/blob/main/output/mandelbrot_zoom3.gif?raw=true" width="33%" />
+
+
+
+### 🤖️ Input: "Using the programming language PROCESSING, write a program to draw a psychedelic fractal zoom"
+
+Source: [pyschedelic_fractal.pde](https://github.com/kennycason/chatgpt/blob/main/psychedelic_fractal.pde)
+
+[Video](https://v.usetapes.com/tN8SdeBlYD)
+
+Output: 
+> Here is a simple implementation of a psychedelic fractal zoom in the programming language Processing:
+> This code generates a psychedelic fractal zoom by drawing a series of lines with random colors at each iteration. The zoom level is gradually increased over time, resulting in a constantly changing and mesmerizing visual effect.
+
+Worked after moving `size(500, 500);` into the `setup()` function.
+
+<img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal02.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal03.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_fractal04.png?raw=true" width="33%"/>
+
+
+
+### 🤖️ Input: "Write python code to control dc motor with L298N Motor Driver Controller with reverse and forward"
+
+Source: [dc_motor_with_l298n.py](https://github.com/kennycason/chatgpt/blob/main/dc_motor_with_l298n.py)
+
+I was quite surprised as to the breadth of ChatGPT with this one. 
+It was able to generate a working Python code to control two DC motors via the L298N Motor Driver Controller with reverse and forward.
+The generated code had a minor bug that prevented reverse from working, otherwise it worked out-of-the-box. 
+I tested it on a robotic tank I have been working on.
 
 
 
