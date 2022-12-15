@@ -1,6 +1,6 @@
 # 显微镜与微生物 Microscopes & Microorganisms
 
-生词 Vocabulary:
+### 生词 Vocabulary:
 
 1. 细胞 (xìbāo) - cell
 2. 细菌 (xìjūn) - bacteria
@@ -33,7 +33,7 @@
 29. 细胞外 (xìbāowài) - extracellular
 30. 细菌繁殖 (xìjūn fánzhí) - bacterial reproduction
 
-例句 Example sentences：
+### 例句 Example sentences：
 
 1. 我们使用显微镜观察细胞的形态。(Wǒmen shǐyòng xiǎnwēijìng guānchá xìbāo de xíngtài.) - We use a microscope to observe the shape of cells.
 2. 在培养基上培养细菌，然后用滴定法测定它们的数量。(Zài péiyǎngjī shàng péiyǎng xìjūn, ránhòu yòng dīdìngfǎ cèdìng tāmen de shùliàng.) - Cultivate bacteria on a culture medium and then determine their quantity by titration.
@@ -44,7 +44,7 @@
 7. 免疫是人体对抗外来物质的能力。(Miǎnyì shì réntǐ duì kàng wàilái wùzhì de nénglì.) - Immunity is the body's ability to fight against foreign substances.
 8. 致病菌是引起疾病的细菌。(Zhìbìng jūn shì yǐnqǐ jíbìng de xìjūn.) - Pathogenic bacteria are bacteria that cause disease.
 
-对话 Dialogue:
+### 对话 Dialogue:
 
 Researcher 1: 你看这种细菌怎么样？它们在显微镜下看起来很有趣。(Nǐ kàn zhè zhǒng xìjūn zěnmeyàng? Tāmen zài xiǎnwēijìng xià kàn qǐlái hěn yǒuqù.)
 
@@ -57,7 +57,6 @@ Researcher 2: 好主意。我们应该还要测试它们对抗生素的敏感性
 Researcher 1: 对，如果它们对常见的抗生素没有反应，那么它们可能是致病菌。(Duì, rúguǒ tāmen duì chángjiàn de kàngshēngsù méiyǒu fǎnyìng, nàme tāmen kěnéng shì zhìbìng jūn.)
 
 Researcher 2: 我们应该立刻进行免疫学研究，看看人体对这种细菌的抗原反应。(Wǒmen yīnggāi lìkè jìnxíng miǎnyìxué yánjiū， kànkàn réntǐ duì zhèzhǒng xìjūn de kàngyuán fǎnyīng 。
-
 
 Researcher 1: 好的，我们可以在明天早上继续这项研究。(Hǎo de, wǒmen kěyǐ zài míngtiān zǎoshang jìxù zhè xiàng yánjiū.)
 
