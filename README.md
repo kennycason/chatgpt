@@ -176,6 +176,24 @@ Worked after minor editing.
 <img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_pattern01.png?raw=true" width="33%"/><img src="https://github.com/kennycason/chatgpt/blob/main/output/psychedelic_pattern03.png?raw=true" width="33%"/>
 
 
+
+### 🤖️ Improve Chinese Blog Post - 遗传算法与重现画像
+
+[Google Doc 遗传算法与重现画像](https://docs.google.com/document/d/1hLsP1NeJ-Huv7-mNarOGKzyI_FoeC15tJae2-86gt9U/edit#)
+
+This was a blog post I wrote in Chinese previously on the subject of generating images using genetic algorithms. Linked below is a Google Doc which shows the before and after for each paragraph. I was quite impressed with the results and ChatGPT was even able to explain it's reasoning for its changes.
+
+
+
+
+### 🤖️ Chinese Lesson - 显微镜与微生物 / Microscopes & Microorganisms
+
+Lesson: [chinese_lesson_microscopes_microorganisms.md](https://github.com/kennycason/chatgpt/blob/main/chinese_lesson_microscopes_microorganisms.md)
+
+This project/experiment was motivated by the success I had using ChatGPT to improve my Chinese post on genetic algorithms.
+
+
+
 ### 🤖️ Short Stories
 
 [Hell](https://github.com/kennycason/chatgpt/blob/main/short_story_hell.txt) - "Write short story about reality hell and god that will give me an existential crisis"
