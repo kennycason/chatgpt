@@ -62,6 +62,7 @@ Source: [neural_network.py](https://github.com/kennycason/chatgpt/blob/main/neur
 Code worked as-is.
 
 Target Vector: `[0, 1, 1, 0]`
+
 Output:
 ```bash
 [[0.03896381]
