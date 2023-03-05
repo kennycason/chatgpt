@@ -57,6 +57,21 @@ I tested it on a robotic tank I have been working on.
 
 ### 🤖️ Input: "Write a simple neural network in python and then remove code comments"
 
+Source: [neural_network.py](https://github.com/kennycason/chatgpt/blob/main/neural_network.py)
+
+Code worked as-is.
+
+Target Vector: `[0, 1, 1, 0]`
+Output:
+```bash
+[[0.03896381]
+[0.95923365]
+[0.96770453]
+[0.04000064]]
+```
+
+### 🤖️ Input: "Write code using tensorflow for a simple auto-encoder with training data random 4d vectors"
+
 Source: [autoencoder.py](https://github.com/kennycason/chatgpt/blob/main/autoencoder.py)
 
 Code worked as-is, though I modified logging + epoch count.
@@ -69,7 +84,6 @@ Noisy input: [[0.36291848 0.20566826 0.39934306 0.81038985]]
 Decoded Noise output: [[0.28726333 0.15678793 0.31848305 0.7758708 ]]
 ```
 
-### 🤖️ Input: "Write code using tensorflow for a simple auto-encoder with training data random 4d vectors"
 
 
 ### 🤖️ Input: "Using the python programming language that please write a program for visually pleasing infinite psychedelic pattern."
